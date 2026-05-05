@@ -99,3 +99,19 @@ const translations = {
         'telephone': 'Τηλέφωνο: (+30) 6973029262'
     }
 };
+
+function setLanguage(lang) {
+    localStorage.setItem('preferredLanguage', lang);
+    
+    document.querySelectorAll('[data-i18n]').forEach(element => {
+        const key = element.getAttribute('data-i18n');
+        if (translations[lang] && translations[lang][key]) {
+            element.textContent = translations[lang][key];
+        }
+    });
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const savedLang = localStorage.getItem('preferredLanguage') || 'en';
+    setLanguage(savedLang);
+});
