@@ -30,15 +30,23 @@ const translations = {
         'coed-rule-3': 'No limitation play, play however you want.',
         'coed-rule-4': 'The same rules as Men\'s and Women\'s categories will be applied.',
         'place-time-title': 'Place and time',
-
         'place-time-text': 'The tournament will be held in N.A.O.K during the 23rd-24th of May (May 23rd for Co-ed and May 24th for Men\'s and Women\'s categories). The time of the matches will be from 9am to 2pm.',
         
-        //registration section
+        // Registration Section (New Translations)
+        'registration-title': 'Tournament Registration',
+        'registration-subtitle': 'Select a category and fill in the form',
+        'select-category': 'Select Category',
+        'multi-entry-note': 'Each player has the right to participate in both the Mixed and the Men\'s/Women\'s tournament. The application deadline is from May 6-16.',
+        'cat-mens': 'Men\'s Tournament',
+        'cat-womens': 'Women\'s Tournament',
+        'cat-mixed': 'Mixed Tournament',
+        'competitive-note': 'Competitive Level: Experience required.',
+        'fun-note': 'Open to all levels! Ideal for fun.',
+        'register-now': 'Register',
 
-        //Contact us section
-        'contact-us':'Contact us',
-        'telephone':'phone:(+30) 6973029262'
-
+        // Contact us section
+        'contact-us': 'Contact us',
+        'telephone': 'phone: (+30) 6973029262'
     },
 
     'el': {
@@ -47,15 +55,15 @@ const translations = {
         'home': 'Αρχική',
         'about': 'Πληροφορίες',
         'register': 'Εγγραφή',
-        'side-main': 'Μπορείτε να βρείτε οτι χρειάζεστε στο "Πληροφορίες". Επίσης διαβάστε τους κανονισμούς του παιχνιδιού και ενημερωθείτε για τις ημερομηνίες έναρξης καθώς και για τις οδηγίες εγγραφής.',
+        'side-main': 'Μπορείτε να βρείτε ό,τι χρειάζεστε στο "Πληροφορίες". Επίσης διαβάστε τους κανονισμούς του παιχνιδιού και ενημερωθείτε για τις ημερομηνίες έναρξης καθώς και για τις οδηγίες εγγραφής.',
         'welcome-under-main': 'Είμαστε ενθουσιασμένοι που ανακοινώνουμε το πρώτο μας τουρνουά!',
-        'main-main': 'Μη διστάσετε να μας καλέσετε αν έχετε οποιαδήποτε ερώτηση. Μείνετε συντονισμένοι για ενημερώσεις!!',
+        'main-main': 'Μη διστάσετε να μας καλέσετε αν έχετε οποιαδήποτε ερώτηση. Μείνετε συντονισμένοι για ενημερώσεις!',
         
         // About Us Section
         'about-title': 'Σχετικά με εμάς',
         'about-text': 'Είμαστε μια μικρή ομάδα φοιτητών που προσπαθεί να "αναβιώσει" το βόλεϊ στην Κέρκυρα. Με τη διοργάνωση αυτού του τουρνουά, ενισχύουμε την κοινότητα του βόλεϊ στο νησί μας και ελπίζουμε να κάνουμε νέους παίκτες να αγαπήσουν το άθλημα.',
         'reg-info-title': 'Πληροφορίες Εγγραφής',
-        'reg-info-text': 'Για να εγγραφείτε στο τουρνουά θα πρέπει να είστε φοιτητές ή φίλοι του Ιονίου παντεπιστημίου, συμπληρώστε τη φόρμα εγγραφής που είναι διαθέσιμη στην ιστοσελίδα μας απο της 6 μέχρι και της 16 Μαΐου(ΠΡΟΣΟΧΗ ΜΕΤΑ ΤΗΣ 16 ΔΕΝ ΘΑ ΔΕΧΟΜΑΣΤΕ ΑΛΛΕΣ ΑΙΤΗΣΕΙΣ). Θα χρειαστεί να δηλώσετε το όνομα της ομάδας, τα ονόματα των παικτών και στοιχεία επικοινωνίας. Μόλις υποβάλετε τη φόρμα, θα ενημερωθείτε για το πρόγραμμα των αγώνων σας σε 2 εβδομάδες. Είναι επίσης σημαντικό να μας πείτε αν έχετε παίξει σε ομάδα σάλας ή σε κάποιο τουρνουά στο παρελθόν.',
+        'reg-info-text': 'Για να εγγραφείτε στο τουρνουά θα πρέπει να είστε φοιτητές ή φίλοι του Ιονίου Πανεπιστημίου. Συμπληρώστε τη φόρμα εγγραφής που είναι διαθέσιμη στην ιστοσελίδα μας από τις 6 μέχρι και τις 16 Μαΐου (ΠΡΟΣΟΧΗ: Μετά τις 16 δεν θα δεχόμαστε άλλες αιτήσεις). Θα χρειαστεί να δηλώσετε το όνομα της ομάδας, τα ονόματα των παικτών και στοιχεία επικοινωνίας. Μόλις υποβάλετε τη φόρμα, θα ενημερωθείτε για το πρόγραμμα των αγώνων σας σε 2 εβδομάδες. Είναι επίσης σημαντικό να μας πείτε αν έχετε παίξει σε ομάδα σάλας ή σε κάποιο τουρνουά στο παρελθόν.',
         'advice-title': 'Συμβουλή',
         'advice-text': 'Η μικτή κατηγορία μας έχει ως στόχο τη διασκέδαση και τη γνωριμία με νέο κόσμο. Ψάχνουμε συγκεκριμένα περισσότερους άνδρες για τη μίξη — οπότε αν διστάζατε επειδή δεν είστε ακόμα "επαγγελματίες", αυτή είναι η κατάλληλη θέση για εσάς.',
         'important-title': 'Σημαντικό',
@@ -66,33 +74,28 @@ const translations = {
         'rule-2': 'Οι αγώνες διεξάγονται στα δύο νικηφόρα σετ (best-of-three) μέχρι τους 21 πόντους.',
         'rule-3': 'Οποιαδήποτε διαφωνία θα επιλύεται από τους υπεύθυνους του τουρνουά.',
         'rule-4': 'Για τις κατηγορίες Ανδρών και Γυναικών, ισχύουν οι επίσημοι κανόνες της Ε.Ο.ΠΕ.',
-        'coed-title': 'Κανόνες μικτού:',
+        'coed-title': 'Κανόνες Μικτού:',
         'coed-rule-1': 'Οι ομάδες αποτελούνται από 4 παίκτες (2 άντρες και 2 γυναίκες).',
         'coed-rule-2': 'Οι αγώνες διεξάγονται στα δύο νικηφόρα σετ μέχρι τους 21 πόντους.',
         'coed-rule-3': 'Ελεύθερο παιχνίδι, παίξτε όπως επιθυμείτε.',
         'coed-rule-4': 'Θα εφαρμόζονται οι ίδιοι βασικοί κανόνες με τις κατηγορίες Ανδρών/Γυναικών.',
         'place-time-title': 'Τόπος και Χρόνος',
-
         'place-time-text': 'Το τουρνουά θα πραγματοποιηθεί στον N.A.O.K στις 23-24 Μαΐου (23 Μαΐου το Co-ed και 24 Μαΐου οι κατηγορίες Ανδρών και Γυναικών). Οι αγώνες θα διεξάγονται από τις 9 π.μ. έως τις 2 μ.μ.',
 
-    //Contact us section
-        'contact-us':'Επικοινωνία',
-        'telephone':'Τηλέφωνο: (+30) 6973029262'
+        // Registration Section (New Translations)
+        'registration-title': 'Εγγραφή στο Τουρνουά',
+        'registration-subtitle': 'Επιλέξτε κατηγορία και συμπληρώστε τη φόρμα',
+        'select-category': 'Επιλογή Κατηγορίας',
+        'multi-entry-note': 'Κάθε παίκτης έχει το δικαίωμα να συμμετάσχει τόσο στο Μικτό όσο και στο τουρνουά Ανδρών/Γυναικών. Η προθεσμία υποβολής αιτήσεων είναι από 6-16 Μαΐου.',
+        'cat-mens': 'Τουρνουά Ανδρών',
+        'cat-womens': 'Τουρνουά Γυναικών',
+        'cat-mixed': 'Μικτό Τουρνουά',
+        'competitive-note': 'Αγωνιστικό Επίπεδο: Απαιτείται εμπειρία.',
+        'fun-note': 'Ανοιχτό για όλα τα επίπεδα! Ιδανικό για διασκέδαση.',
+        'register-now': 'Εγγραφή',
+
+        // Contact us section
+        'contact-us': 'Επικοινωνία',
+        'telephone': 'Τηλέφωνο: (+30) 6973029262'
     }
 };
-
-function setLanguage(lang) {
-    localStorage.setItem('preferredLanguage', lang);
-    
-    document.querySelectorAll('[data-i18n]').forEach(element => {
-        const key = element.getAttribute('data-i18n');
-        if (translations[lang] && translations[lang][key]) {
-            element.textContent = translations[lang][key];
-        }
-    });
-}
-
-document.addEventListener('DOMContentLoaded', () => {
-    const savedLang = localStorage.getItem('preferredLanguage') || 'en';
-    setLanguage(savedLang);
-});
