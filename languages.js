@@ -31,7 +31,7 @@ const translations = {
         'coed-rule-4': 'The same rules as Men\'s and Women\'s categories will be applied.',
         'place-time-title': 'Place and time',
 
-        'place-time-text': 'The tournament will be held in N.A.O.K during the 23rd-24th of May (May 23rd for Co-ed and May 24th for Men\'s and Women\'s categories). The time of the matches will be from 9am to 5pm.',
+        'place-time-text': 'The tournament will be held in N.A.O.K during the 23rd-24th of May (May 23rd for Co-ed and May 24th for Men\'s and Women\'s categories). The time of the matches will be from 9am to 2pm.',
         
         //registration section
 
@@ -73,7 +73,7 @@ const translations = {
         'coed-rule-4': 'Θα εφαρμόζονται οι ίδιοι βασικοί κανόνες με τις κατηγορίες Ανδρών/Γυναικών.',
         'place-time-title': 'Τόπος και Χρόνος',
 
-        'place-time-text': 'Το τουρνουά θα πραγματοποιηθεί στον N.A.O.K στις 23-24 Μαΐου (23 Μαΐου το Co-ed και 24 Μαΐου οι κατηγορίες Ανδρών και Γυναικών). Οι αγώνες θα διεξάγονται από τις 9 π.μ. έως τις 5 μ.μ.',
+        'place-time-text': 'Το τουρνουά θα πραγματοποιηθεί στον N.A.O.K στις 23-24 Μαΐου (23 Μαΐου το Co-ed και 24 Μαΐου οι κατηγορίες Ανδρών και Γυναικών). Οι αγώνες θα διεξάγονται από τις 9 π.μ. έως τις 2 μ.μ.',
 
     //Contact us section
         'contact-us':'Επικοινωνία',
