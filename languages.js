@@ -25,7 +25,7 @@ const translations = {
         'rule-3': 'Any disputes will be resolved by the tournament officials.',
         'rule-4': 'For the Men\'s and Women\'s categories, the rules of the official EOPE handbook will apply.',
         'coed-title': 'Co-ed Rules:',
-        'coed-rule-1': 'Teams must consist of two players.',
+        'coed-rule-1': 'Teams must consist of four players (two men two women)',
         'coed-rule-2': 'Matches will be played in a best-of-three sets format up to 21 points.',
         'coed-rule-3': 'No limitation play, play however you want.',
         'coed-rule-4': 'The same rules as Men\'s and Women\'s categories will be applied.',
